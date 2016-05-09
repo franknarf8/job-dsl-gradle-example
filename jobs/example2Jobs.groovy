@@ -1,4 +1,4 @@
-def jobe = freeStyleJob('test-job') {
+freeStyleJob('test-job') {
     properties{
         promotions {
             promotion {
