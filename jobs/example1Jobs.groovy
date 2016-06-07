@@ -1,4 +1,4 @@
-freeStyleJob('test-job') {
+freeStyleJob("WubbaLubbaDubDub") {
   properties{
     promotions {
       promotion {
